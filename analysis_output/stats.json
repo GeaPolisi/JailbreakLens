@@ -1,0 +1,83 @@
+{
+ "N_rows": 267,
+ "N_prompts": 89,
+ "per_cat_n": {
+  "Adversarial suffix / obfuscation": 15,
+  "Direct request (baseline)": 15,
+  "Hypothetical / Fictional framing": 14,
+  "Instruction override / refusal suppression": 15,
+  "Pretext framing (claimed purpose / expertise)": 15,
+  "Role-play / Persona": 15
+ },
+ "overall": {
+  "n": 267,
+  "strict": 0.0749063670411985,
+  "lenient": 0.250936329588015,
+  "strict_ci": [
+   0.04901038501383894,
+   0.11286135108578532
+  ],
+  "lenient_ci": [
+   0.20271387818492764,
+   0.3062241874593456
+  ]
+ },
+ "perm": {
+  "strict_pooled": {
+   "chi2": 26.208930017351065,
+   "p": 0.0009998000399920016
+  },
+  "strict_GPT-OSS 20B": {
+   "chi2": 12.341582633053223,
+   "p": 0.013997200559888023
+  },
+  "strict_ALLaM 2 7B": {
+   "chi2": 17.40177177177177,
+   "p": 0.003799240151969606
+  },
+  "strict_Qwen3.8 27B": {
+   "chi2": 4.98939393939394,
+   "p": 1.0
+  },
+  "lenient_pooled": {
+   "chi2": 40.787049040511725,
+   "p": 0.0001999600079984003
+  },
+  "lenient_GPT-OSS 20B": {
+   "chi2": 13.329071134626687,
+   "p": 0.017196560687862426
+  },
+  "lenient_ALLaM 2 7B": {
+   "chi2": 29.992215902754545,
+   "p": 0.0001999600079984003
+  },
+  "lenient_Qwen3.8 27B": {
+   "chi2": 10.457111075798506,
+   "p": 0.0653869226154769
+  }
+ },
+ "cochran_strict": {
+  "Q": 21.733333333333334,
+  "p": 1.9083877932368765e-05
+ },
+ "cochran_lenient": {
+  "Q": 22.878048780487806,
+  "p": 1.0767002873612874e-05
+ },
+ "any_complied_prompts": 16,
+ "all_three_complied": 1,
+ "trunc": [
+  {
+   "finish_reason": "length",
+   "n": 22,
+   "strict": 12,
+   "lenient": 19
+  },
+  {
+   "finish_reason": "stop",
+   "n": 245,
+   "strict": 8,
+   "lenient": 48
+  }
+ ]
+}

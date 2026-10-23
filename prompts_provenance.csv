@@ -1,0 +1,90 @@
+category,source,template_completed,original_len,id
+Adversarial suffix / obfuscation,JBB/GCG,False,190,ADV-01
+Adversarial suffix / obfuscation,JBB/GCG,False,224,ADV-02
+Adversarial suffix / obfuscation,JBB/GCG,False,161,ADV-03
+Adversarial suffix / obfuscation,JBB/GCG,False,172,ADV-06
+Adversarial suffix / obfuscation,JBB/GCG,False,246,ADV-10
+Adversarial suffix / obfuscation,JBB/GCG,False,238,ADV-12
+Adversarial suffix / obfuscation,JBB/GCG,False,154,ADV-13
+Adversarial suffix / obfuscation,JBB/GCG,False,171,ADV-14
+Adversarial suffix / obfuscation,JBB/GCG,False,173,ADV-17
+Adversarial suffix / obfuscation,JBB/GCG,False,149,ADV-18
+Adversarial suffix / obfuscation,JBB/GCG,False,109,ADV-19
+Adversarial suffix / obfuscation,JBB/GCG,False,175,ADV-25
+Adversarial suffix / obfuscation,JBB/GCG,False,170,ADV-28
+Adversarial suffix / obfuscation,JBB/GCG,False,147,ADV-29
+Adversarial suffix / obfuscation,JBB/GCG,False,191,ADV-30
+Direct request (baseline),HF/jailbreak-detection,False,186,DIR-01
+Direct request (baseline),HF/jailbreak-detection,False,101,DIR-02
+Direct request (baseline),HF/jailbreak-detection,False,43,DIR-03
+Direct request (baseline),HF/jailbreak-detection,False,47,DIR-06
+Direct request (baseline),HF/jailbreak-detection,False,39,DIR-10
+Direct request (baseline),HF/jailbreak-detection,False,46,DIR-12
+Direct request (baseline),HF/jailbreak-detection,False,112,DIR-13
+Direct request (baseline),HF/jailbreak-detection,False,179,DIR-14
+Direct request (baseline),HF/jailbreak-detection,False,75,DIR-17
+Direct request (baseline),HF/jailbreak-detection,False,38,DIR-18
+Direct request (baseline),HF/jailbreak-detection,False,81,DIR-19
+Direct request (baseline),HF/jailbreak-detection,False,32,DIR-25
+Direct request (baseline),HF/jailbreak-detection,False,56,DIR-28
+Direct request (baseline),HF/jailbreak-detection,False,26,DIR-29
+Direct request (baseline),HF/jailbreak-detection,False,70,DIR-30
+Hypothetical / Fictional framing,HF/jailbreak-detection,False,141,HYP-01
+Hypothetical / Fictional framing,HF/jailbreak-detection,False,362,HYP-02
+Hypothetical / Fictional framing,HF/jailbreak-detection,False,75,HYP-06
+Hypothetical / Fictional framing,HF/jailbreak-detection,False,75,HYP-10
+Hypothetical / Fictional framing,HF/jailbreak-detection,False,1385,HYP-12
+Hypothetical / Fictional framing,HF/jailbreak-detection,False,374,HYP-13
+Hypothetical / Fictional framing,HF/jailbreak-detection,False,437,HYP-14
+Hypothetical / Fictional framing,JBB/PAIR,False,548,HYP-17
+Hypothetical / Fictional framing,JBB/PAIR,False,473,HYP-18
+Hypothetical / Fictional framing,JBB/PAIR,False,421,HYP-19
+Hypothetical / Fictional framing,JBB/PAIR,False,515,HYP-25
+Hypothetical / Fictional framing,JBB/PAIR,False,700,HYP-28
+Hypothetical / Fictional framing,JBB/PAIR,False,463,HYP-29
+Hypothetical / Fictional framing,JBB/PAIR,False,516,HYP-30
+Instruction override / refusal suppression,HF/jailbreak-detection,True,1804,INS-01
+Instruction override / refusal suppression,HF/jailbreak-detection,True,2035,INS-02
+Instruction override / refusal suppression,HF/jailbreak-detection,True,346,INS-03
+Instruction override / refusal suppression,HF/jailbreak-detection,True,576,INS-06
+Instruction override / refusal suppression,HF/jailbreak-detection,True,387,INS-10
+Instruction override / refusal suppression,HF/jailbreak-detection,True,1254,INS-12
+Instruction override / refusal suppression,HF/jailbreak-detection,True,569,INS-13
+Instruction override / refusal suppression,HF/jailbreak-detection,True,1120,INS-14
+Instruction override / refusal suppression,HF/jailbreak-detection,True,75,INS-17
+Instruction override / refusal suppression,HF/jailbreak-detection,True,2147,INS-18
+Instruction override / refusal suppression,HF/jailbreak-detection,True,550,INS-19
+Instruction override / refusal suppression,HF/jailbreak-detection,True,369,INS-25
+Instruction override / refusal suppression,HF/jailbreak-detection,True,605,INS-28
+Instruction override / refusal suppression,HF/jailbreak-detection,True,1363,INS-29
+Instruction override / refusal suppression,HF/jailbreak-detection,True,1117,INS-30
+Pretext framing (claimed purpose / expertise),HF/jailbreak-detection,False,1060,PRE-01
+Pretext framing (claimed purpose / expertise),HF/jailbreak-detection,False,1811,PRE-02
+Pretext framing (claimed purpose / expertise),HF/jailbreak-detection,False,96,PRE-03
+Pretext framing (claimed purpose / expertise),HF/jailbreak-detection,False,70,PRE-06
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,617,PRE-10
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,627,PRE-12
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,422,PRE-13
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,490,PRE-14
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,324,PRE-17
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,441,PRE-18
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,468,PRE-19
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,424,PRE-25
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,397,PRE-28
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,552,PRE-29
+Pretext framing (claimed purpose / expertise),JBB/PAIR,False,545,PRE-30
+Role-play / Persona,HF/jailbreak-detection,True,58,ROL-01
+Role-play / Persona,HF/jailbreak-detection,True,790,ROL-02
+Role-play / Persona,HF/jailbreak-detection,True,466,ROL-03
+Role-play / Persona,HF/jailbreak-detection,True,67,ROL-06
+Role-play / Persona,HF/jailbreak-detection,True,2363,ROL-10
+Role-play / Persona,HF/jailbreak-detection,True,2228,ROL-12
+Role-play / Persona,HF/jailbreak-detection,True,1094,ROL-13
+Role-play / Persona,HF/jailbreak-detection,True,1463,ROL-14
+Role-play / Persona,HF/jailbreak-detection,True,593,ROL-17
+Role-play / Persona,HF/jailbreak-detection,True,193,ROL-18
+Role-play / Persona,HF/jailbreak-detection,True,1385,ROL-19
+Role-play / Persona,HF/jailbreak-detection,True,50,ROL-25
+Role-play / Persona,HF/jailbreak-detection,True,70,ROL-28
+Role-play / Persona,HF/jailbreak-detection,True,447,ROL-29
+Role-play / Persona,HF/jailbreak-detection,True,488,ROL-30
